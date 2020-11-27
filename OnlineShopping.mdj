@@ -70,7 +70,7 @@
 											"_id": "AAAAAAFwpOrHahiIPyc=",
 											"_parent": {
 												"$ref": "AAAAAAFwpOrHahiFIO4="
-											},
+			 								},
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 96,
